@@ -23,6 +23,8 @@ Clique no botão "Fork" no canto superior direito da página, isto irá criar um
 
 **Clone** o seu **Fork** para a sua máquina, este comando irá relizar o "donwload" do repositório, assim você poderá editar os arquivos localmente para depois enviá-los de volta para o GitHub.
 
+**dica:** observe se o seu nome de usuário está na url a ser clonada
+
 **dica:** navege para o Desktop ou para alguma pasta do seu computador em que você queira baixar os arquivos antes de clonar
 
 Para clonar digite em seu terminal:
@@ -51,3 +53,15 @@ Nem sempre você irá querer "salvar" todos os arquivos que foram modificados na
 ``` markdown
 git add .
 ```
+## Passo 6 - Faça um "Commit"
+
+- Assim você irá salvar suas modificações no repositório local
+
+- Dê um "Push" para que as modificações sejam enviadas para o servidor do GitHub!
+
+```markdown
+git commit -m 'mensagem legal explicando o voce mudou'
+git push
+```
+
+Agora se tudo deu certo até então, você poderá ver as suas mudanças no seu repositório no servidor do GitHub.
