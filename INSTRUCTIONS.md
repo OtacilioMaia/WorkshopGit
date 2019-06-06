@@ -37,7 +37,7 @@ git clone https://github.com/seuUsuario/Aprenda-Git.git
 
 ## Passo 4 - Edite o arquivo README.md na sua máquina
 
-Então vá para a pasta "WorkshopGit" e edite o arquivo README.md, você pode utilizar qualquer editor de texto a sua escolha, como por exemplo o bloco de notas ou o (VSCode)[https://code.visualstudio.com/]
+Então vá para a pasta "WorkshopGit" e edite o arquivo README.md, você pode utilizar qualquer editor de texto a sua escolha, como por exemplo o bloco de notas ou o [VSCode](https://code.visualstudio.com/)
 
 Note que no arquivo README.md existe um template, mas fique livre para modificar o template da forma que preferir, o arquivo agora é seu!
 
