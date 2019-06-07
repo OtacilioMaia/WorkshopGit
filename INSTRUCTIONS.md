@@ -69,11 +69,15 @@ Agora se tudo deu certo até então, você poderá ver as suas mudanças no seu 
 
 ## Passo 7 - Gerando um site com GitHub Pages
 
+<img align="right" width="500" src="assets/GitHubPages.png" alt="GitHub Pages" />
+
 Na aba de *Settings* desça até encontrar a parte de **GitHub Pages**, utilize o *Theme Chooser* para escolher um dos templates para o seu site clicando no botão *Choose a theme*
 
 **Pronto** agora você já tem sua própria página online através do GitHub Pages, e a url está disponível em *Settings > GitHub Pages*, se você renomear o repositório para "seunomedeusuario.github.io", essa será a url do seu site.
 
 **dica:** além dos templates disponíveis no *Theme Chooser* que são configuráveis em um clique, você também pode configurar manualmente outros templates depois se achar interessante, [aqui você encontra uma lista mais completa](http://jekyllthemes.org/). Você também pode criar [seus próprios templates Jekyll](https://jekyllrb.com/).
+
+
 
 ## Valeu
 
