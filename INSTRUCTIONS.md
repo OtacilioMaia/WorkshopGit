@@ -118,5 +118,5 @@ Obtém as mudanças do seu servidor remoto (No caso do repositório do GitHub), 
 
 > git checkout nome-do-branch
 
-Muda para o branch selecionado, também é possível criar um novo branch e mudar para o branch utilizando o comando ```git checkout -b "nome-do-branch```
+Muda para o branch selecionado, também é possível criar um novo branch e mudar para o branch utilizando o comando ```git checkout -b "nome-do-branch"```
 
