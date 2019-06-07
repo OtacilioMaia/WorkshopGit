@@ -1,4 +1,4 @@
-# Boas vindas ao Workshop de Git :sparkles: 
+# Boas vindas ao Workshop de Git ✨
 
 ## Instruções para começar
 
@@ -34,4 +34,4 @@ Você também pode colocar imagens
 
 # Valeu
 
-Este tutorial foi criado com :heart: por [**Otacilio Maia**](otaciliomaia.com), sinta-se à vontade para tirar dúvidas através do email **contato@otaciliomaia.com** ou através de redes sociais.
+Este tutorial foi criado com ❤️ por [**Otacilio Maia**](otaciliomaia.com), sinta-se à vontade para tirar dúvidas através do email **contato@otaciliomaia.com** ou através de redes sociais.
