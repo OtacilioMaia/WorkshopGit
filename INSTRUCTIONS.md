@@ -16,7 +16,7 @@ git config --global user.email "seu@email.com"
 
 Clique no botão "Fork" no canto superior direito da página, isto irá criar uma cópia deste repositório para a sua conta.
 
-**dica:** Se você estiver na página do github.io acesse o repositório em github.com para criar o fork.
+**dica:** Se você estiver na página do github.io acesse o [repositório em github.com](https://github.com/OtacilioMaia/WorkshopGit) para criar o fork.
 
 ## Passo 3 - Clone o seu fork
 
