@@ -31,7 +31,7 @@ Clique no botão "Fork" no canto superior direito da página, isto irá criar um
 Para clonar digite em seu terminal:
 
 ```
-git clone https://github.com/seuUsuario/Aprenda-Git.git
+git clone https://github.com/seuUsuario/WorkshopGit.git
 
 ```
 
